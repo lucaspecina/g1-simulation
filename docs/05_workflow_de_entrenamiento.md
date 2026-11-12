@@ -132,7 +132,7 @@ elegimos la ruta de teleoperar. La ruta del experto por refuerzo no la necesita.
 CloudXR exige generación Ada o Blackwell. Caminos posibles: una máquina física
 local, AWS con L40S, o Azure con RTX PRO 6000 Blackwell en vista previa; los dos
 de nube quedan lejos de Argentina y arrastran latencia. Detalle en
-[`04_generacion_de_datos.md`](04_generacion_de_datos.md).
+[`data-generation.md`](https://github.com/lucaspecina/g1-robot-learning/blob/main/notes/data-generation.md) (en g1-robot-learning).
 
 **Con el robot real ese problema desaparece**, porque teleoperar hardware no
 exige renderizar un mundo 3D: se transmite el video de las cámaras y todo ocurre

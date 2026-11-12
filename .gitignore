@@ -232,8 +232,8 @@ g1/logs/
 # actual; no son código ni evidencia resumida del experimento
 NvStreamer-*.etli
 
-# Notas internas de compras y hardware: NO se suben
-notas/
+# Notas internas (VM, direcciones, credenciales): NO se suben
+private/
 
 # Nombres de recursos de Azure del laboratorio (ver scripts/lab.env.example)
 scripts/lab.env
