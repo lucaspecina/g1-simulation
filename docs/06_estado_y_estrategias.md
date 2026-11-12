@@ -169,7 +169,7 @@ Se dejan escritos a propósito: cada uno costó tiempo y volver a caer es fácil
 ## Dónde seguir
 
 - [`03_arquitectura_inteligencia_humanoide.md`](03_arquitectura_inteligencia_humanoide.md) — qué arquitectura entra en el cómputo del robot
-- [`04_generacion_de_datos.md`](04_generacion_de_datos.md) — de dónde salen los datos y qué placa pide cada camino
+- [`data-generation.md`](https://github.com/lucaspecina/g1-robot-learning/blob/main/notes/data-generation.md) (en g1-robot-learning) — de dónde salen los datos y qué placa pide cada camino
 - [`05_workflow_de_entrenamiento.md`](05_workflow_de_entrenamiento.md) — el flujo oficial que seguimos, paso a paso
 - [`../g1/AGILE_TRAINING_REFERENCE.md`](../g1/AGILE_TRAINING_REFERENCE.md) — el taller de entrenamiento por refuerzo
 - [`../g1/README.md`](../g1/README.md) — estado del sistema que ya funciona

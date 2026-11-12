@@ -55,10 +55,10 @@ Nunca escribir en archivos versionados:
 - Credenciales, direcciones IP internas o nombres de máquinas de la
   organización.
 
-Todo eso va a **`notas/`**, que está en `.gitignore`.
+Todo eso va a **`private/`**, que está en `.gitignore`.
 
 En los documentos versionados se habla en general: "el equipo socio", "el sitio
 real", "una planta industrial". El contenido técnico —arquitectura, mediciones,
 decisiones de ingeniería, precios de lista públicos— sí puede ir versionado.
 
-Ante la duda, va a `notas/`.
+Ante la duda, va a `private/`.

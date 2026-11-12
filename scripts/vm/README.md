@@ -61,7 +61,7 @@ isaac_ros_env.sh            copiar desde scripts/vm/
 ## Pasos para la máquina nueva
 
 1. **Crear la VM.** Ver la especificación en
-   [`../../docs/04_generacion_de_datos.md`](../../docs/04_generacion_de_datos.md).
+   [`data-generation.md`](https://github.com/lucaspecina/g1-robot-learning/blob/main/notes/data-generation.md) (en g1-robot-learning).
    Puntos que ya nos mordieron: **controlador de disco NVMe** (obligatorio en la
    familia RTX PRO 6000), **zona de disponibilidad 2 o 3** (la 1 no la soporta),
    y disco de **512 GB como mínimo**.
@@ -86,7 +86,7 @@ isaac_ros_env.sh            copiar desde scripts/vm/
 
 CloudXR corre como contenedor en la misma máquina y transmite al casco por red.
 Requisitos y puertos en
-[`../../docs/04_generacion_de_datos.md`](../../docs/04_generacion_de_datos.md);
+[`data-generation.md`](https://github.com/lucaspecina/g1-robot-learning/blob/main/notes/data-generation.md) (en g1-robot-learning);
 el resumen es placa de generación Ada o Blackwell, driver ≥ 573.42, y abrir
 49100/tcp, 47998/udp y 48322/tcp.
 

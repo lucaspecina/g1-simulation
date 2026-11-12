@@ -97,7 +97,7 @@ consejo más barato del flujo: evita descubrir que todo el lote es inservible.
 
 Anotar los límites de subtarea, generar cientos de variantes, convertir al
 formato que consume el modelo, y afinar. Detalle en
-[`04_generacion_de_datos.md`](04_generacion_de_datos.md).
+[`data-generation.md`](https://github.com/lucaspecina/g1-robot-learning/blob/main/notes/data-generation.md) (en g1-robot-learning).
 
 ## Controles, por si se usa teclado en vez de casco
 
